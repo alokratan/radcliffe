@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/radcliffe/static/css/main.6c796a4e.css",
-    "main.js": "/radcliffe/static/js/main.2e0a9759.js",
+    "main.js": "/radcliffe/static/js/main.ff0c119c.js",
     "static/media/y1.jpg": "/radcliffe/static/media/y1.fbf4d675c91714986e79.jpg",
     "static/media/y8.jpg": "/radcliffe/static/media/y8.33d8ad12818e2477bf65.jpg",
     "static/media/y2.jpg": "/radcliffe/static/media/y2.1950b734f2b0b4d3d119.jpg",
@@ -15,10 +15,10 @@
     "static/media/lotus.png": "/radcliffe/static/media/lotus.a252419fb29ff5b6bf56.png",
     "index.html": "/radcliffe/index.html",
     "main.6c796a4e.css.map": "/radcliffe/static/css/main.6c796a4e.css.map",
-    "main.2e0a9759.js.map": "/radcliffe/static/js/main.2e0a9759.js.map"
+    "main.ff0c119c.js.map": "/radcliffe/static/js/main.ff0c119c.js.map"
   },
   "entrypoints": [
     "static/css/main.6c796a4e.css",
-    "static/js/main.2e0a9759.js"
+    "static/js/main.ff0c119c.js"
   ]
 }
