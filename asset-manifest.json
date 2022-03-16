@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/radcliffe/static/css/main.6c796a4e.css",
+    "main.js": "/radcliffe/static/js/main.2e0a9759.js",
+    "static/media/y1.jpg": "/radcliffe/static/media/y1.fbf4d675c91714986e79.jpg",
+    "static/media/y8.jpg": "/radcliffe/static/media/y8.33d8ad12818e2477bf65.jpg",
+    "static/media/y2.jpg": "/radcliffe/static/media/y2.1950b734f2b0b4d3d119.jpg",
+    "static/media/y4.jpg": "/radcliffe/static/media/y4.5f047ef7b9c7b2762ec6.jpg",
+    "static/media/y7.jpg": "/radcliffe/static/media/y7.205892d3d36e818345c6.jpg",
+    "static/media/y3.jpg": "/radcliffe/static/media/y3.775a034dd2ee30c43fcc.jpg",
+    "static/media/y6.jpg": "/radcliffe/static/media/y6.1f4002936eefdecf9e22.jpg",
+    "static/media/y5.jpg": "/radcliffe/static/media/y5.53e8a57aa3f612a26250.jpg",
+    "static/media/Prototype.ttf": "/radcliffe/static/media/Prototype.be9924a47c44090561d7.ttf",
+    "static/media/yA.JPG": "/radcliffe/static/media/yA.d9cab84e14bd48f4cc34.JPG",
+    "static/media/lotus.png": "/radcliffe/static/media/lotus.a252419fb29ff5b6bf56.png",
+    "index.html": "/radcliffe/index.html",
+    "main.6c796a4e.css.map": "/radcliffe/static/css/main.6c796a4e.css.map",
+    "main.2e0a9759.js.map": "/radcliffe/static/js/main.2e0a9759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c796a4e.css",
+    "static/js/main.2e0a9759.js"
+  ]
+}
